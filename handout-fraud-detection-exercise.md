@@ -13,55 +13,45 @@ But you need to define what "suspicious" looks like well enough for AI to help�
 
 ---
 
-## Your Task: Design a Capability
+## Your Task: Design a Claude Skill
 
-Using the **Claude Skills** format (SKILL.md), draft a reusable specification that encodes what "suspicious" means.
+Using the **Claude Skills** format, draft a reusable specification. This is the actual format used by Claude Code.
 
-Work with your partner(s) for 10 minutes. Fill in what you can. Mark what you're uncertain about.
+Work with your partner(s). Fill in what you can. Mark what you're uncertain about.
 
-```
+```yaml
 ---
 name: claim-fraud-flagger
-description: _______________________________________________
-             _______________________________________________
+description: This skill should be used when ____________________
+             ________________________________________________
 ---
 ```
 
-### TRIGGERS
-*What types of claims should this skill analyze?*
+### Purpose
+*What does this skill accomplish? (1-2 sentences)*
 
-1. ________________________________________________________
-2. ________________________________________________________
+_____________________________________________________________
+_____________________________________________________________
 
-### RED FLAGS
-*What patterns suggest possible fraud?*
+### When to Use
+*What triggers this skill? What types of claims should it analyze?*
+
+- ________________________________________________________
+- ________________________________________________________
+
+### How It Works
+*What patterns suggest possible fraud? List 3-4 red flags.*
 
 1. ________________________________________________________
 2. ________________________________________________________
 3. ________________________________________________________
 4. ________________________________________________________
 
-### CONFIDENCE LEVELS
-*How certain must the AI be before flagging?*
+### Human Handoff
+*When should AI stop and escalate to a human? What must it NEVER decide alone?*
 
-| Level | Threshold | Action |
-|-------|-----------|--------|
-| Low | | |
-| Medium | | |
-| High | | |
-
-### HUMAN HANDOFF
-*What does the human reviewer need to see?*
-
-1. ________________________________________________________
-2. ________________________________________________________
-3. ________________________________________________________
-
-### ETHICAL BOUNDARIES
-*What must this skill NEVER do?*
-
-1. ________________________________________________________
-2. ________________________________________________________
+**Escalate when:** ___________________________________________
+**Never:** ___________________________________________________
 
 ---
 
@@ -95,15 +85,15 @@ After the exercise, consider:
 
 You just worked through three stages:
 
-| Stage | What You Did |
-|-------|-------------|
-| **UNDERSTAND** | Tried to grasp a problem you're not expert in |
-| **DECIDE** | Chose what to flag vs. escalate to humans |
-| **SPECIFY** | Wrote it in a format AI could execute |
+| Stage | What You Did | Skill Section |
+|-------|-------------|---------------|
+| **UNDERSTAND** | Grasped a problem you're not expert in | Purpose, When to Use |
+| **DECIDE** | Chose what to flag vs. escalate | Human Handoff |
+| **SPECIFY** | Wrote it in a format AI could execute | How It Works |
 
 At every stage, you practiced **context engineering**—figuring out what information matters, how to structure it, what to include and exclude.
 
-**This is what we're asking students to do—capability architecture.**
+**The format you used is real.** Claude Skills (SKILL.md files) are how developers teach AI domain expertise. The sections—Purpose, When to Use, How It Works, Human Handoff—are the actual structure.
 
 Business schools already teach understanding and decision-making. What's new:
 - All three stages can be AI-enabled
