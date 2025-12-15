@@ -42,15 +42,14 @@ Business schools already teach understanding, decision-making, and specification
 
 ## Repository Contents
 
-### For Facilitators
+### Framework & Exercises
 
 | File | Description |
 |------|-------------|
-| [SESSION-RUNSHEET.md](SESSION-RUNSHEET.md) | Complete session flow with timing (50 min) |
 | [CONCEPTUAL-FRAMEWORK.md](CONCEPTUAL-FRAMEWORK.md) | Full theoretical model with sources |
 | [table-talk-roleplay-exercises.md](table-talk-roleplay-exercises.md) | Three exercise options with facilitation notes |
 
-### Handouts for Participants
+### Handouts
 
 | File | Description | Style |
 |------|-------------|-------|
@@ -100,12 +99,11 @@ Business schools already teach understanding, decision-making, and specification
 
 ## How to Use These Materials
 
-### Running the Table Talk
+### For Workshops or Discussions
 
-1. Review [SESSION-RUNSHEET.md](SESSION-RUNSHEET.md) for timing and flow
-2. Print [handout-fraud-detection-exercise.md](handout-fraud-detection-exercise.md) for participants
-3. Print [handout-challenge-style.md](handout-challenge-style.md) or [handout-thesis-style.md](handout-thesis-style.md) as takeaways
-4. Keep [CONCEPTUAL-FRAMEWORK.md](CONCEPTUAL-FRAMEWORK.md) handy for reference
+1. Print [handout-fraud-detection-exercise.md](handout-fraud-detection-exercise.md) for an interactive exercise
+2. Use [handout-thesis-style.md](handout-thesis-style.md) or [handout-challenge-style.md](handout-challenge-style.md) as takeaways
+3. Reference [CONCEPTUAL-FRAMEWORK.md](CONCEPTUAL-FRAMEWORK.md) for the full theoretical model
 
 ### Adapting for Your Own Use
 
