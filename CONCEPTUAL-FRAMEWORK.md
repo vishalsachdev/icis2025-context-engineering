@@ -189,6 +189,40 @@ This is **context engineering made durable**—a reusable context package.
 
 ---
 
+## Faculty as Capability Architects
+
+There's a prerequisite to teaching this: **you can't teach building until you've built.**
+
+### The Shift in Faculty Role
+
+| Traditional Role | New Role |
+|------------------|----------|
+| Domain expert who lectures | Capability architect who demonstrates |
+| Assigns tools for students to use | Designs capabilities for students to extend |
+| Teaches frameworks abstractly | Models the building process explicitly |
+
+### Why Building Matters
+
+1. **Experience teaches what papers can't.** The struggle of specifying business logic for AI reveals edge cases, ambiguities, and design trade-offs that theory alone won't surface.
+
+2. **Artifacts become teaching tools.** A skill you built for your course becomes something students can examine, critique, and extend.
+
+3. **Credibility through practice.** Students can tell when you've done the work vs. just read about it.
+
+### Starter Builds for Faculty
+
+| If You Teach... | You Could Build... |
+|-----------------|-------------------|
+| Accounting | A skill that flags unusual journal entries for review |
+| Marketing | A skill that analyzes campaign copy for brand consistency |
+| Finance | A skill that stress-tests DCF model assumptions |
+| Operations | A skill that identifies supply chain bottlenecks |
+| Strategy | A skill that maps competitive positioning from 10-Ks |
+
+**One build teaches more than ten papers.**
+
+---
+
 ## Sources
 
 - [Karpathy on Context Engineering](https://x.com/karpathy/status/1937902205765607626)

@@ -110,6 +110,27 @@ _____________________________________________________________
 
 ---
 
+## The Builder Challenge
+
+You can't teach building until you've built.
+
+**Before your next semester, build ONE thing:**
+
+| Starter Ideas | What You'd Learn |
+|---------------|------------------|
+| A Claude Skill for your course | How to specify domain expertise |
+| A prompt template for case analysis | How context shapes AI output |
+| A grading feedback scaffold | Where AI helps vs. where humans must decide |
+| An MCP server for a system you use | How to expose data to AI agents |
+
+**The struggle of building teaches you what students will need.**
+
+**What will you build?**
+
+_____________________________________________________________
+
+---
+
 ## Let's Continue
 
 I'd rather learn from you than present at you.

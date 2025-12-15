@@ -128,6 +128,26 @@ The domain should be unfamiliar enough to create struggle, familiar enough to ma
 
 ---
 
+## Your Next Step: Become a Builder
+
+You just did in 15 minutes what most faculty haven't tried: you designed an AI capability.
+
+**The best way to teach context engineering is to practice it yourself.**
+
+What could you build for YOUR domain?
+
+| If You Teach... | You Could Build... |
+|-----------------|-------------------|
+| Accounting | A skill that flags unusual journal entries |
+| Marketing | A skill that analyzes campaign copy for brand consistency |
+| Finance | A skill that stress-tests DCF assumptions |
+| Operations | A skill that identifies supply chain bottlenecks |
+| Strategy | A skill that maps competitive positioning |
+
+**One build teaches more than ten papers.**
+
+---
+
 ## Let's Continue the Conversation
 
 **Vishal Sachdev**
@@ -138,7 +158,7 @@ Gies College of Business
 - Substack: [chatwithgpt.substack.com](https://chatwithgpt.substack.com)
 - Claude Skills Library: [github.com/vishalsachdev/claude-skills](https://github.com/vishalsachdev/claude-skills)
 
-*What exercises are YOU trying? I'd love to learn from you.*
+*What will YOU build? I'd love to learn from you.*
 
 ---
 

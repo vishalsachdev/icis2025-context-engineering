@@ -141,6 +141,23 @@ description: Systematically evaluate acquisition targets
 
 ---
 
+## The Builder Challenge
+
+**You can't teach building until you've built.**
+
+The best way to understand context engineering isn't to read about it—it's to practice it. Before your next semester, build one capability:
+
+- A Claude Skill for your course domain
+- A prompt template that scaffolds student analysis
+- A grading feedback system with AI assistance
+- An MCP server for a tool you use daily
+
+**One build teaches more than ten papers.**
+
+The struggle of building reveals what students will need. And the artifact you create becomes a teaching tool.
+
+---
+
 ## Resources
 
 | Resource | Link |
