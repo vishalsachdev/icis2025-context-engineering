@@ -91,9 +91,11 @@ Karpathy's analogy: *"Think of an LLM like a CPU, and its context window as the 
 
 ---
 
-## The New Artifact: The "Skill"
+## The New Artifact: Capability Architecture
 
-When Stage 3 produces a specification that AI executes:
+When Stage 3 produces a specification that AI executes, you're designing what we might call **capability architecture**—reusable, composable knowledge systems that encode business logic.
+
+**Case study: Claude Skills** — Anthropic's format for teaching AI domain expertise through structured packages:
 
 ```yaml
 ---
@@ -115,7 +117,7 @@ description: Systematically evaluate acquisition targets
 - Related party transactions → human review
 ```
 
-**This is context engineering made durable—a reusable context package.**
+**This is context engineering made durable—a reusable capability that encodes business logic.**
 
 ---
 

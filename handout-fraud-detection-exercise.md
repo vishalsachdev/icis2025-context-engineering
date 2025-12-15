@@ -13,7 +13,9 @@ But you need to define what "suspicious" looks like well enough for AI to help�
 
 ---
 
-## Your Task: Draft a SKILL.md
+## Your Task: Design a Capability
+
+Using the **Claude Skills** format (SKILL.md), draft a reusable specification that encodes what "suspicious" means.
 
 Work with your partner(s) for 10 minutes. Fill in what you can. Mark what you're uncertain about.
 
@@ -101,12 +103,12 @@ You just worked through three stages:
 
 At every stage, you practiced **context engineering**—figuring out what information matters, how to structure it, what to include and exclude.
 
-**This is what we're asking students to do.**
+**This is what we're asking students to do—capability architecture.**
 
 Business schools already teach understanding and decision-making. What's new:
 - All three stages can be AI-enabled
-- The output of Stage 3 might be a specification AI itself executes
-- Context engineering is the meta-skill across all three
+- The output of Stage 3 is a reusable capability that encodes business logic
+- Context engineering is the meta-skill; Claude Skills are the artifact
 
 ---
 

@@ -10,9 +10,15 @@
 
 ## Overview
 
-This repository contains materials for a table talk exploring how AI changes what we teach in business schools. The core argument:
+This repository contains materials for a table talk exploring how AI changes what we teach in business schools.
 
-**Every stage of business work—understanding, deciding, specifying—can now be AI-enabled. The meta-skill across all three is *context engineering*.**
+**The core argument:**
+
+Business schools teach students to use technology—Excel, Python, BI dashboards. But AI systems like **Claude Skills** reveal what employers actually need: graduates who can architect capabilities—designing reusable, composable knowledge systems that encode business logic.
+
+**The framework:**
+
+Every stage of business work—understanding, deciding, specifying—can now be AI-enabled. The meta-skill across all three is **context engineering**. The artifact of Stage 3 (Specify) is **capability architecture**—skills that AI can execute.
 
 The term "context engineering" was endorsed by [Tobi Lütke](https://x.com/tobi/status/1935533422589399127) (Shopify CEO) and [Andrej Karpathy](https://x.com/karpathy/status/1937902205765607626) (former Tesla AI Director, OpenAI founding member) in mid-2025.
 
@@ -35,8 +41,8 @@ The term "context engineering" was endorsed by [Tobi Lütke](https://x.com/tobi/
 
 Business schools already teach understanding, decision-making, and specification. What's new:
 - All three stages can be AI-enabled
-- The output of Stage 3 might be a specification AI itself executes (a "skill")
-- Context engineering is the meta-skill across all three
+- The output of Stage 3 is **capability architecture**—reusable skills that encode business logic
+- Context engineering is the meta-skill; Claude Skills are the artifact
 
 ---
 
