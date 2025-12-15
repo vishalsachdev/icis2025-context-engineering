@@ -55,6 +55,30 @@ _____________________________________________________________
 
 ---
 
+## Beyond SKILL.md: The Full Architecture
+
+A Claude Skill is more than instructions—it's a **capability architecture**:
+
+```
+claim-fraud-flagger/
+├── SKILL.md                    ← Instructions (what you just wrote)
+├── references/                 ← Domain knowledge loaded into context
+│   └── fraud-patterns.md         (e.g., common fraud indicators by claim type)
+├── scripts/                    ← Deterministic steps (no AI judgment needed)
+│   └── calculate-risk-score.py   (e.g., rule-based scoring algorithm)
+└── output-style.md             ← How AI formats its responses
+```
+
+**What else would YOUR skill need?**
+
+| Component | Your Design |
+|-----------|-------------|
+| **References** — domain docs AI can consult | |
+| **Scripts** — deterministic logic, no judgment | |
+| **Output format** — how results should look | |
+
+---
+
 ## The Twist
 
 **New constraint from Legal:**
@@ -93,7 +117,7 @@ You just worked through three stages:
 
 At every stage, you practiced **context engineering**—figuring out what information matters, how to structure it, what to include and exclude.
 
-**The format you used is real.** Claude Skills (SKILL.md files) are how developers teach AI domain expertise. The sections—Purpose, When to Use, How It Works, Human Handoff—are the actual structure.
+**The format you used is real.** Claude Skills are how developers teach AI domain expertise. A skill isn't just a prompt—it's a capability architecture with instructions, reference docs, scripts, and output formats.
 
 Business schools already teach understanding and decision-making. What's new:
 - All three stages can be AI-enabled
